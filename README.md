@@ -10,4 +10,4 @@ Démarrer l'application en mode développement: `yarn start`
 
 Pour voir l'application, intaller l'application Expo Go sur votre téléphone et scanner le code QR affiché.
 
-Créé dans le cadre du cours INF1040 pour une démonstration.
+Créé dans le cadre du cours INF1040 pour une démonstration lors d'une présentation orale.
